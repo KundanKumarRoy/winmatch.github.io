@@ -344,7 +344,12 @@ position: relative;
     color: #072f60;
     line-height: 1.3;
 }
-
+.download-btn-wrap { 
+    position: sticky;
+    bottom: 0;
+   
+    z-index: 122;
+}
 /* ***************************circle************************* */
 
 /* =============================== Responsive styles ====================== */
