@@ -373,4 +373,13 @@ position: relative;
     .download {
         margin-bottom: 100px;
     }
+	 .fs{
+        font-size: 19px!important;
+    }
 }
+@media  (max-width:385px){
+    .fs{
+        font-size: 16px!important;
+    }
+} 
+
